@@ -3,3 +3,5 @@ Esta es mi historia.
 ahorita estoy practicando el uso de git.
 
 para el uso de diferentes versiones
+
+estoy ahora en la finalizacion de las primeras clases del curso de git de freddy vega
