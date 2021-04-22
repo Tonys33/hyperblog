@@ -9,8 +9,21 @@ body{
     width: 70%;
     margin: 0 auto;
     border: 1px solid #000;
-    padding: 1em;
 }
 #post h1{
     font-size: 20px;
+}
+
+#cabecera{
+    background-color: royalblue;
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bold;
+    text-align: left;
+    box-shadow: -0px 2px 10px 0px black;
+}
+#cabecera #tagline{
+    font-weight: normal;
+    padding: 1em 0 0 0;
 }
